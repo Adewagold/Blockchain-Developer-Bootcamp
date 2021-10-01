@@ -1,6 +1,6 @@
 ## Setting up Geth
 
-[Geth (Go-Ethereum)](https://geth.ethereum.org/){target=_blank} is a command line interface for running a full ethereum node implemented in Go. This is your local portal to the Ethereum network. When you are running a local Ethereum node, you do not need to rely on any 3rd party service to connect to the Ethereumblockchain. This is what makes the network “trustless”.
+[Geth (Go-Ethereum)](https://geth.ethereum.org/){target=_blank} is a command line interface for running a full ethereum node implemented in Go. This is your local portal to the Ethereum network. When you are running a local Ethereum node, you do not need to rely on any 3rd party service to connect to the Ethereum blockchain. This is what makes the network “trustless”.
 
 ### Capabilities
 
